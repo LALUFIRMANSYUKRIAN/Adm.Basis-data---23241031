@@ -1,6 +1,6 @@
 -- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
--- Nama     : Aditiya aryadani
--- NIM      : 23241015
+-- Nama     : Lalu firman syukrian
+-- NIM      : 23241031
 -- Kelas    : A
 
 -- menggunakan database
